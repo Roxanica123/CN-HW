@@ -1,0 +1,5 @@
+**/**/*.txt
+**/**/.idea
+**/**/__pycache__
+**/**/*.png
+python_env
